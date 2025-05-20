@@ -36,8 +36,8 @@ TURBINE ROTOR
 ![Screenshot 2025-04-24 155746](https://github.com/user-attachments/assets/53bd93f2-42bc-495e-bc88-aa3f35cdf850)
 
 
-### Name: PRIYANKA P
-### Register Number: 212224230212
+### Name:BHARANI KUMAR J
+### Register Number: 212224240024
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
